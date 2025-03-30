@@ -1,0 +1,5 @@
+Browser: chrome
+URL: https://katalon-demo-cura.herokuapp.com/
+OS: Windows 11
+Java Version: 21.0.6
+User: mukul
