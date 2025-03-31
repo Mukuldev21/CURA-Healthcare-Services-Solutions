@@ -1,6 +1,6 @@
 <div align="center">
   
-# CURA Healthcare Services Automation Framework
+# CURA-Healthcare-Services-Solutions
 
   <img src="https://raw.githubusercontent.com/Mukuldev21/CURA-Healthcare-Services-Solutions/main/src/test/resources/images/cura-logo.png" alt="CURA Logo" width="400">
 </div>
