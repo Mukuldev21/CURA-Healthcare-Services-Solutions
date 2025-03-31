@@ -25,7 +25,7 @@ public class AppointmentTest extends BaseTest{
         visitDate = appointmentDetailsData.get("visitDate").getAsString();
         comment = appointmentDetailsData.get("comment").getAsString();
 
-        // Initialize login credentials from the validLoginData JsonObject in BaseTest
+        // Initialize login credentials from the validLoginData JsonObject in AppointmentTest
         username = validLoginData.get("username").getAsString();
         password = validLoginData.get("password").getAsString();
     }

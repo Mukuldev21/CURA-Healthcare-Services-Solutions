@@ -9,29 +9,10 @@
         <classes>
             <class name="com.curahealthcare.tests.LoginTest"/>
             <class name="com.curahealthcare.tests.AppointmentTest"/>
+            <class name="com.curahealthcare.tests.HistoryTest"/>
+            <class name="com.curahealthcare.tests.LogoutTest"/>
         </classes>
     </test>
 
-    <!-- You can also specify individual classes instead of packages -->
-    <!--
-    <test name="Login Tests">
-        <classes>
-            <class name="com.curahealthcare.tests.LoginTest"/>
-        </classes>
-    </test>
-    -->
 
-    <!-- Example of running specific methods -->
-    <!--
-    <test name="Critical Path Tests">
-        <classes>
-            <class name="com.curahealthcare.tests.AppointmentTest">
-                <methods>
-                    <include name="testCreateAppointment"/>
-                    <include name="testModifyAppointment"/>
-                </methods>
-            </class>
-        </classes>
-    </test>
-    -->
 </suite>
